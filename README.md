@@ -3,8 +3,8 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: Thayná da Silva Cota
-Matricula: 891208
+Nome: 
+Matricula: 
 
 ## Tela de inspeção com navegador
 
